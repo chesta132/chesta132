@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chesta Ardiona</h1>
 <h3 align="center">A self-taught fullstack website developer</h3>
 
-- 🔭 I’m currently working on [GoalPilot](https://github.com/chesta132/goalpilot-client)
+- 🔭 I’m currently working on [Hoshify](https://github.com/chesta132/hoshify-server)
 
-- 🌱 I’m currently learning **Backend development (JS)**
+- 🌱 I’m currently learning **Backend development (Node JS)**
 
 - 🤝 I’m looking for help with **Partner for self-taught**
 
 - 👨‍💻 All of my projects are available at [https://chesta-lapa.vercel.app/](https://chesta-lapa.vercel.app/)
 
-- 💬 Ask me about **MongoDB, Express.js, React TS/JS, Node.js**
+- 💬 Ask me about **TypeScript, MongoDB, Express.js, React.js, Node.js**
 
 - 📫 How to reach me **chestaardi4@gmail.com**
 
