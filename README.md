@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chesta Ardiona</h1>
 <h3 align="center">A self-taught fullstack website developer</h3>
 
-- 🔭 I’m currently working on [Hoshify](https://github.com/chesta132/hoshify-server)
+- 🔭 I’m currently working on [Hoshify](https://github.com/chesta132/hoshify-client)
 
-- 🌱 I’m currently learning **Backend development (Node JS)**
+- 🌱 I’m currently learning **Go and their ecosystem**
 
 - 🤝 I’m looking for help with **Partner for self-taught**
 
