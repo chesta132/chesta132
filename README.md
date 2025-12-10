@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Hoshify](https://github.com/chesta132/hoshify-client), [Personal Landing Page V3](https://github.com/chesta132/landing-v3)<br>👯 I’m looking to collaborate for Self Taught<br><br>
+🔭 I’m currently working on -<br>👯 I’m looking to collaborate for Self Taught<br><br>
 
 
 ## 🌐 Socials:
