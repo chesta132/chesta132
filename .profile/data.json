@@ -1,0 +1,390 @@
+{
+ "key": "34b6663",
+ "stars": 0,
+ "contributions": 1027,
+ "repos": 25,
+ "followers": 2,
+ "languages": [
+  [
+   "TypeScript",
+   1552518
+  ],
+  [
+   "Go",
+   549778
+  ],
+  [
+   "CSS",
+   104357
+  ],
+  [
+   "JavaScript",
+   46183
+  ],
+  [
+   "C++",
+   20925
+  ],
+  [
+   "HTML",
+   17585
+  ],
+  [
+   "C",
+   4376
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 16,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 24
+ },
+ "pins": [
+  {
+   "name": "goreply",
+   "url": "https://github.com/chesta132/goreply",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "chardy-safe",
+   "url": "https://github.com/chesta132/chardy-safe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "nectic",
+   "url": "https://github.com/chesta132/nectic",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "caelestia-cli",
+   "url": "https://github.com/chesta132/caelestia-cli",
+   "text": "The main control script for the Caelestia dotfiles",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "caelestia-dots",
+   "url": "https://github.com/chesta132/caelestia-dots",
+   "text": "A fluid, morphing interface to your Linux desktop",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "caelestia-shell",
+   "url": "https://github.com/chesta132/caelestia-shell",
+   "text": "A fluid, morphing shell for your Linux desktop",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "dots-hyprland",
+   "url": "https://github.com/chesta132/dots-hyprland",
+   "text": "Usability-first dotfiles",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "esp32-ac-midea",
+   "url": "https://github.com/chesta132/esp32-ac-midea",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "chardy-safe",
+   "url": "https://github.com/chesta132/chardy-safe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "linked-list-c",
+   "url": "https://github.com/chesta132/linked-list-c",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "umami",
+   "url": "https://github.com/chesta132/umami",
+   "text": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "nectic",
+   "url": "https://github.com/chesta132/nectic",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "chardy",
+   "url": "https://github.com/chesta132/chardy",
+   "text": "Just my portfolio repo. Check it if u want to see this repo's code quality",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "homedy-ui",
+   "url": "https://github.com/chesta132/homedy-ui",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "homedy",
+   "url": "https://github.com/chesta132/homedy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "school-information-system",
+   "url": "https://github.com/chesta132/school-information-system",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "goreply",
+   "url": "https://github.com/chesta132/goreply",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "e-commerce-go",
+   "url": "https://github.com/chesta132/e-commerce-go",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "file-sharing-go",
+   "url": "https://github.com/chesta132/file-sharing-go",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "markdown-note-go",
+   "url": "https://github.com/chesta132/markdown-note-go",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "url-shortening-go",
+   "url": "https://github.com/chesta132/url-shortening-go",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "hoshify-client",
+   "url": "https://github.com/chesta132/hoshify-client",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "hoshify-server",
+   "url": "https://github.com/chesta132/hoshify-server",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "chesta132",
+   "url": "https://github.com/chesta132/chesta132",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "goalpilot-client",
+   "url": "https://github.com/chesta132/goalpilot-client",
+   "text": "Frontend for GoalPilot",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "goalpilot-server",
+   "url": "https://github.com/chesta132/goalpilot-server",
+   "text": "Backend for GoalPilot",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Pokedex",
+   "url": "https://github.com/chesta132/Pokedex",
+   "text": "Pokedex with PokeAPI",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "chesta-lapa",
+   "url": "https://github.com/chesta132/chesta-lapa",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}
