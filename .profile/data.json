@@ -1,5 +1,5 @@
 {
- "key": "dafaa525",
+ "key": "5a490da3",
  "stars": 0,
  "contributions": 1028,
  "repos": 25,
@@ -123,16 +123,20 @@
    {
     "c": 0,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 0,
   "longest": 24
  },
  "pins": [
